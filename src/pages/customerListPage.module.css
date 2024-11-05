@@ -1,0 +1,11 @@
+.customerList{
+    width:60% ;
+    margin: 0 auto;
+}
+
+@media (max-width: 950px) {
+    .customerList {
+        width: 100%;
+        padding: 20px;
+    }
+}
